@@ -33,7 +33,7 @@
 <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aishu1123&theme=github_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aishu1123&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aishu1123&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aishu1123&show_icons=true&locale=en&layout=compact&theme=radical">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aishu1123&theme=github_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aishu1123&theme=github_dark&utcOffset=8">
 </p>

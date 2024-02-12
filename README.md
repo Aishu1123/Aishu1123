@@ -9,10 +9,6 @@
 
 ![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
 
-<img src="https://static.wixstatic.com/media/191815_5d9d3ff1ad894e96a2f0a86681563555~mv2.gif" width="350px" align="right">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alipakkr&label=Profile%20views&color=0e75b6&style=flat" alt="err" /> </p>
-
 - 📫 How to reach me aishlohakare2311@gmail.com
 
 - ⚡ Fun fact "Did you know that the first computer bug was a real insect? In 1947, Grace Hopper and her team found a moth stuck in a relay of the Harvard Mark II computer, causing it to malfunction. They taped the moth into their logbook and coined the term 'debugging'! 🐛💻 #CodingHistory"

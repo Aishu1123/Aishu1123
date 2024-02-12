@@ -7,7 +7,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Fellow+%3C%2FDevelopers%3E;if(brain+!%3D+empty)+%7B++keepCoding()++%7D+;else+%7B++orderCoffee()++%7D)](https://git.io/typing-svg) -->
 </div>
 
-![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
+
 
 - 📫 How to reach me aishlohakare2311@gmail.com
 

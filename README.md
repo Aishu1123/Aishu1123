@@ -6,7 +6,7 @@
 <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=blue &width=470&lines=Hello+Fellow+%3C%2FDevelopers%3E;if(brain!%3Dempty)+keepCoding()+;else++orderCoffee()+" alt="Typing SVG" /></a>
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+Fellow+%3C%2FDevelopers%3E;if(brain+!%3D+empty)+%7B++keepCoding()++%7D+;else+%7B++orderCoffee()++%7D)](https://git.io/typing-svg) -->
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nishant6571&label=Profile%20views&color=0e75b6&style=flat" alt="nishant" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aishu1123&label=Profile%20views&color=0e75b6&style=flat" alt="aishu" /> </p>
 
 
 

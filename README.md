@@ -11,13 +11,14 @@
 
 
 - 📫 How to reach me aishlohakare2311@gmail.com
-
+- My Portfolio https://aishu1123.github.io
+ 
 - ⚡ Fun fact "Did you know that the first computer bug was a real insect? In 1947, Grace Hopper and her team found a moth stuck in a relay of the Harvard Mark II computer, causing it to malfunction. They taped the moth into their logbook and coined the term 'debugging'! 🐛💻 #CodingHistory"
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aishwarya-lohakare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alipa-55b365285" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/aishwarya-lohakare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alipa-55b365285" height="30" width="40" /></a>
 <a href="https://www.instagram.com/aishu_23_11_?igsh=YjBvaWJiZHphYTFi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aishu1123" height="30" width="40" /></a>
 </p>
 
